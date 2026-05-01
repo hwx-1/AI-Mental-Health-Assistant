@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![心理AI助手](https://hwxzi.top/index/upload/bdc7b83bc28c2a00c742ee8205d2cb7.jpg)
+<img src="https://hwxzi.top/index/upload/bdc7b83bc28c2a00c742ee8205d2cb7.jpg" width="120" alt="心理AI助手" />
 
 **一个基于 Vue 3 + Vite 构建的全功能 AI 心理健康管理平台**
 
