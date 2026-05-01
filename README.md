@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![心理AI助手](https://file.itndedu.com/psychology_ai.png)
+![心理AI助手](https://hwxzi.top/index/upload/bdc7b83bc28c2a00c742ee8205d2cb7.jpg)
 
 **一个基于 Vue 3 + Vite 构建的全功能 AI 心理健康管理平台**
 
@@ -687,7 +687,7 @@ nvm use 24.12.0
 
 ## 📄 License
 
-MIT License © 2025 hwx-1
+MIT License © 2026 hwx-1
 
 ---
 
